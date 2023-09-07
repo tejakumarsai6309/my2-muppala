@@ -18,4 +18,23 @@
 
 [linkofMystats](MyStats.md)
 
+****
+
+# Recommended Sports
+| Sport_Name         | Reason to Play              | Weekly Duration |
+|----------------|---------------------------------|--------------|
+| Swimming        | Enhances flexibility and peace  | 2-3 hours    |
+| Soccer         | Body fitness and hands moments  | 4-6 hours    |
+| Table tennis      | Sharpens focus               | 2-4 hours    |
+| basketball     | Great for agility and fitnes    | 5-6 hours    |
+
+# Favourite Quotes
+
+> "I finally realized that owning up to your vulnerabilities is a form of strength" - Lizzo
+
+> "The best way to destroy an enemy is to make him a friend." - Lincoln
+
+> "If you judge people, you have no time to love them" ― Mother Teresa 
+
+> "The time is always right to do what is right." - Martin Luther King
 
