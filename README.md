@@ -38,3 +38,28 @@
 
 > "The time is always right to do what is right." - Martin Luther King
 
+****
+
+# Code Fencing
+
+```
+<object type="application/x-shockwave-flash" data="myclip.swf" 
+    width="550" height="400"> 
+
+    <param name="movie" value="myclip.swf" />
+    <param name="quality" value="high" />
+</object>
+```
+[Embed flash in html](https://stackoverflow.com/questions/1333202/embed-flash-in-html)
+
+```
+<object type="application/x-shockwave-flash" 
+  data="your-flash-file.swf" 
+  width="0" height="0">
+  <param name="movie" value="your-flash-file.swf" />
+  <param name="quality" value="high"/>
+</object>
+```
+[Embedding Flash](https://css-tricks.com/snippets/html/embedding-flash/)
+
+
