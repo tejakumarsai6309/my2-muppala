@@ -16,4 +16,4 @@
 * Idly chicken
 * Prawns
 
-[linkofMystats]([Title](MyStats.md))
+[linkofMystats](MyStats.md)
