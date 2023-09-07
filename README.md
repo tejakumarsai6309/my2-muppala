@@ -6,14 +6,14 @@
 
 ---
 
-## My favorite vacation spots are
-1. Pondicherry
-2. Bangalore
-3. Hyderabad
+## My favorite activities are
+1. Trekking
+2. Swiming
+3. Spirituality
 
 ## Dishes found in fav Spot
-* Chicken Biryani
-* Idly chicken
-* Prawns
+* Laddu
+* vada
+* Sambar Rice
 
 [linkofMystats](MyStats.md)
